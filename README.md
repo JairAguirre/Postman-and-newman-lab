@@ -4,6 +4,9 @@
 Quick Summary
 
 This lab is about a manual test of an API  using Postman. nn the instruttions below you can find how to execute the test using newman. 
+
+Solution: 
+
 The methods tested were: 
   1. Add pet ( POST). 
   2. Get Pet (GET). 
